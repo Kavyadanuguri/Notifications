@@ -1,0 +1,35 @@
+/* Write your code here. */
+.inf {
+  background-color: #0b69ff;
+  height: 300px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.suc {
+  background-color: #2dca73;
+  height: 300px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.war {
+  background-color: #ffb800;
+  height: 300px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.err {
+  background-color: #ff0b37;
+  height: 300px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
